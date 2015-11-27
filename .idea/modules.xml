@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simulator.iml" filepath="$PROJECT_DIR$/simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-common/smart-simulator-common.iml" filepath="$PROJECT_DIR$/smart-simulator-common/smart-simulator-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-core/smart-simulator-core.iml" filepath="$PROJECT_DIR$/smart-simulator-core/smart-simulator-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-db/smart-simulator-db.iml" filepath="$PROJECT_DIR$/smart-simulator-db/smart-simulator-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-ocpp12/smart-simulator-ocpp12.iml" filepath="$PROJECT_DIR$/smart-simulator-ocpp12/smart-simulator-ocpp12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-ocpp15/smart-simulator-ocpp15.iml" filepath="$PROJECT_DIR$/smart-simulator-ocpp15/smart-simulator-ocpp15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-server/smart-simulator-server.iml" filepath="$PROJECT_DIR$/smart-simulator-server/smart-simulator-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-springboot/smart-simulator-springboot.iml" filepath="$PROJECT_DIR$/smart-simulator-springboot/smart-simulator-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-springmvc/smart-simulator-springmvc.iml" filepath="$PROJECT_DIR$/smart-simulator-springmvc/smart-simulator-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simulator-web/smart-simulator-web.iml" filepath="$PROJECT_DIR$/smart-simulator-web/smart-simulator-web.iml" />
+    </modules>
+  </component>
+</project>

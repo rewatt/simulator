@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : simulator:smart-simulator-web : smart-simulator-client-3.1.0.war (exploded)">
+    <output-path>$PROJECT_DIR$/classes/artifacts/smart-simulator-web/exploded/smart-simulator-client-3.1.0.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/smart-simulator-web" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="smart-simulator-web/web/Web Gradle : smart-simulator-client-3.1.0.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="smart-simulator-web" />
+          <element id="dir-copy" path="$PROJECT_DIR$/smart-simulator-web/build/resources/main" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/classes/artifacts/smart-simulator-web/exploded/smart-simulator-client-3.1.0.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
